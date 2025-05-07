@@ -1,0 +1,24 @@
+{
+  "games": [
+    {
+      "id": "backrooms-3d-game",
+      "name": "3D Backrooms Horror",
+      "description": "Navigate the eerie backrooms while avoiding a relentless AI monster.",
+      "developer": "Purpleman1987",
+      "release_date": "2025-05-06",
+      "key_id": "backrooms-key-0ae6b04d-2fa8-4def-98cc-5c80d850b7c8",
+      "metadata": {
+        "genre": "Horror",
+        "platforms": ["Windows", "Mac", "Web"],
+        "rating": "T for Teen",
+        "engine": "Unity 3D",
+        "features": [
+          "3D environment with solid walls",
+          "AI monster that follows the player",
+          "Multiplayer lobby with chat functionality",
+          "Immersive horror experience"
+        ]
+      }
+    }
+  ]
+}
